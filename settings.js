@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "923097045246",
+  SUDO_NUMBERS : "923097045246",
+  OWNER_NAME: "*『 ⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:) 』*",
+  BOT_NAME : "`𝗠𝗔𝗡𝗡𝗢 2.0`",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '`🄼 𝗚𝗥𝗔𝗡𝗧𝗘𝗗 𝗕𝗬 𝗠𝗔𝗡𝗡𝗢-𝗠𝗗-𝗕𝗢𝗧`',
+  STICKER_PACK : '[ 𝗠𝗔𝗡𝗡𝗢-𝗕𝗢𝗧 ♥️]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
